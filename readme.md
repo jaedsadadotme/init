@@ -1,7 +1,5 @@
 # Baba
 
----
-
 # List
 ```sh
 curl http://<username>:<password>@jaedsada.me/list?type=<type> | jq
