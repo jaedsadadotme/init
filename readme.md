@@ -4,6 +4,7 @@
 ```sh
 curl http://<username>:<password>@jaedsada.me/list?type=<type> | jq
 ```
+type
 - init
 - dockerfile
 
