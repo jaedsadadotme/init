@@ -1,7 +1,6 @@
 #!/bin/sh
 
 mkdir /jenkin_homes
-
 docker run -d \
   --name jenkins \ 
   --restart=always 
