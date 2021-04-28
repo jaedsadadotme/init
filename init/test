@@ -1,0 +1,2 @@
+#!/bin/sh
+ssh dev@$1 "ping $2"
